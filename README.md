@@ -2,13 +2,18 @@
 
 
 Technologies used:
+
 -Spring boot 3.0.4
+
 -Spring Security 6
+
 -Base de datos H2
+
 
 The first time the program is run it generates a default username and password:
 
 username → admin
+
 password → admin
 
 Nota: The coding of this can be seen in the main class of the program
@@ -22,13 +27,14 @@ The example has 4 entities of which 2 belong to security
  (Users and Authorities) that are in the package com.example.ExampleCrudApiRest.security
 
 Entities
+
 -Users
+
 -Authorities
+
 -Department
+
 -Employe
-
-
-
 
 
 Project structure:
